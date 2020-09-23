@@ -1,2 +1,4 @@
 # PracticeRep
-This if for Lab 6
+This is for Lab 6
+
+This is indeed for Lab 6
